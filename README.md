@@ -14,3 +14,10 @@
 
 ### Demo Screenshots:
 
+![home](screenshots/home.png)
+
+![chat](screenshots/chat.png)
+
+![chatgpt](screenshots/chatgpt.gif)
+
+
