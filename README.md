@@ -12,8 +12,6 @@
 * Install the required libraries pip3 install -r requirements.txt
 * run python app.py
 
-### Demo Screenshots:
-
 ![home](screenshots/home.png)
 
 ![chat](screenshots/chat.png)
