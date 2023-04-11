@@ -1,4 +1,4 @@
-# MyOwnChatgpt
+# Chatgpt
 
 ### Instructions
 
